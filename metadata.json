@@ -1,0 +1,6 @@
+{
+  "name": "Consulta de Saldo - Beach Park",
+  "description": "Consulta de saldo de crachá de funcionário Beach Park por leitura de 14 dígitos",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
